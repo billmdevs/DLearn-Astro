@@ -7,3 +7,5 @@ Examples of algos used:
 - Bayesian Networks
 - Ensemble Methods
 - Logistic Regression
+- KNeighbors
+- Support Vector Machines with linear and RBF kernels
